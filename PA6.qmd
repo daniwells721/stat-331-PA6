@@ -4,6 +4,7 @@ format: html
 author: "Claire, Dani, Abby"
 editor: visual
 self-contained: true
+author: "Dani Wells, Abby Drongpa, Claire Savage"
 ---
 
 ## Quarto
