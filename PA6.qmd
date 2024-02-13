@@ -3,6 +3,7 @@ title: "Practice Activity 6"
 format: html
 editor: visual
 self-contained: true
+author: "Dani Wells, Abby Drongpa, Claire Savage"
 ---
 
 ## Quarto
