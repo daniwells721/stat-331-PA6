@@ -1,6 +1,7 @@
 ---
 title: "Practice Activity 6"
 format: html
+author: "Claire, Dani, Abby"
 editor: visual
 self-contained: true
 ---
